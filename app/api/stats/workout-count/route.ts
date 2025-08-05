@@ -1,4 +1,4 @@
-import data from '../../workouts.json';
+import data from '@/app/api/db/workouts.json';
 
 export const dynamic = 'force-static'
 

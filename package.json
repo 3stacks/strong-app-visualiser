@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "next": "15.4.5",
-    "node-xlsx": "^0.24.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
@@ -24,6 +23,7 @@
     "eslint-config-next": "15.4.5",
     "prettier": "^3.6.2",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "csvtojson": "^2.0.10"
   }
 }
